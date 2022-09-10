@@ -1,0 +1,27 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header h2 {
+    font-size: 20pt;
+}
+.languages {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.languages figure {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1 2 110px;
+    flex-wrap: wrap;
+}
+/* @media screen and (max-width: 768px) {
+    .languages {
+        flex-direction: column;
+        min-width: 110px;
+    }
+} */
