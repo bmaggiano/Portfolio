@@ -193,6 +193,12 @@ blockquote {
 .projects h3 {
     background-color: aliceblue;
     padding: 20px;
+    cursor: pointer;
+    transition: font-size .5s;
+}
+.projects h3:hover {
+    font-size: 20px;
+    font-weight: bold;
 }
 
 
