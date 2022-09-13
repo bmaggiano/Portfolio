@@ -309,8 +309,8 @@ footer h4 {
         flex-direction: row;
     }
 }
-@media screen and (min-width: 400px){
-    .card {
+@media screen and (max-width: 400px){
+    .projects {
         max-width: 200px;
     }
 }
