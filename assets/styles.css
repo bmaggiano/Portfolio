@@ -133,6 +133,8 @@ blockquote {
     background-color: aliceblue;
     padding: 20px;
     margin: 20px;
+    box-shadow: 0 0 30px rgb(0, 0, 0, .5);
+    border-radius: 25px;
 }
 .languages {
     display: flex;
@@ -170,6 +172,8 @@ figcaption {
     background-color: aliceblue;
     margin: 20px;
     padding: 20px;
+    box-shadow: 0 0 30px rgb(0, 0, 0, .5);
+    border-radius: 25px;
 }
 .middle-column h3 {
     text-align: center;
@@ -240,6 +244,8 @@ figcaption {
     background-color: aliceblue;
     padding: 20px;
     margin: 20px;
+    box-shadow: 0 0 30px rgb(0, 0, 0, .5);
+    border-radius: 25px;
 }
 .contact ul {   
     display: flex;
