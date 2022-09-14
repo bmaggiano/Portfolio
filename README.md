@@ -12,7 +12,7 @@ https://bmaggiano.github.io/Portfolio/
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/103971233/190213326-d96e5458-66b7-4075-ab6d-76c918859915.png)
+![image](https://user-images.githubusercontent.com/103971233/190213543-d23adf29-9281-433a-9e80-55a076398535.png)
 
 
 ## Credits
