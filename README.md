@@ -8,7 +8,7 @@ A couple of key concepts that really stuck with me throughout this process are f
 
 ## Link to deployed application
 
-https://bmaggiano.github.io/Portfolio/
+https://bmaggiano.github.io/portfolio-brandon-maggiano/
 
 ## Screenshot
 
